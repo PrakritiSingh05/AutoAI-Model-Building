@@ -21,13 +21,4 @@ requests
 Sample Prediction Output
 The model takes inputs like:
 
-{
-  "pm10": 80,
-  "no2": 30,
-  "so2": 10,
-  "co": 0.5,
-  "o3": 25,
-  "temperature": 32,
-  "humidity": 45,
-  "wind speed": 3
-}
+<img width="1055" height="280" alt="image" src="https://github.com/user-attachments/assets/65fa02cd-0d27-467e-af15-d65267bc855e" />
